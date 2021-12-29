@@ -7,3 +7,4 @@
 |3    | MVM NoticiasⓈ   |[>](http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8) | <img height="20" src="https://i.imgur.com/dhLXN9n.png"/> |
 |4    | RCG 3 Saltillo |[>](http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NefH5qZ.png"/> |
 |5    | TeleFormula    |[>](https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jR6taXt.png"/> |
+|6    | RTQ Querétaro    |[>](http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8) | <img height="20" src="https://www.rtq.mx/wp-content/uploads/2020/07/rtq-trans.png"/> |
